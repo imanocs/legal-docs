@@ -14,4 +14,4 @@ Dieses Repository dient dazu, die rechtlichen Dokumente unserer Firma transparen
 
 ## Lizenz
 
-Die Inhalte dieses Repositories stehen unter der [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) Lizenz. Die vollständigen Lizenzbedingungen finden Sie in der Datei [LICENSE.md](LICENSE.md).
+Die Inhalte dieses Repositories stehen unter der [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) Lizenz. Die vollständigen Lizenzbedingungen finden Sie in der Datei [LICENSE](LICENSE).
