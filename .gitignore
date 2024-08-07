@@ -1,0 +1,24 @@
+# Ignore temporary files created by text editors and OS
+*.swp
+*.swo
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux specific
+*~
+
+# Ignore logs and temporary files from Markdown tools
+*.log
