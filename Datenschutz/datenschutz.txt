@@ -1,0 +1,103 @@
+Erklärung zur Informationspflicht
+Datenschutzerklärung
+
+Vielen Dank für Ihren Besuch auf unserer Website, die unter https://www.imanocs.at erreichbar ist. Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003, DSG). In diesen Datenschutzinformationen informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.
+
+1. Verantwortliche Stelle
+Verantwortlich für die Datenverarbeitung auf dieser Website ist:
+2rc imanocs Consulting GmbH
+Tokiostraße 5/R1
+1220 Wien, Österreich
+E-Mail: datenschutz@imanocs.at
+
+2. Kontakt mit uns
+Wenn Sie per Formular auf der Website oder per E-Mail Kontakt mit uns aufnehmen, speichern wir die von Ihnen angegebenen Daten für die Bearbeitung Ihrer Anfrage und für den Fall von Anschlussfragen für sechs Monate. Diese Daten werden nicht ohne Ihre Einwilligung weitergegeben.
+
+3. Art der Daten und Zweck der Verarbeitung
+Wir erheben und speichern personenbezogene Daten, die Sie uns über Kontaktformulare, E- Mails oder andere Kommunikationswege zur Verfügung stellen (z. B. Name, E-Mail- Adresse, Telefonnummer). Diese Daten werden verwendet, um Ihre Anfragen zu beantworten, die gewünschten Dienstleistungen bereitzustellen und Ihre Anliegen zu bearbeiten.
+
+4. Rechtsgrundlage
+Die Verarbeitung Ihrer personenbezogenen Daten erfolgt aufgrund Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) und/oder zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen (Art. 6 Abs. 1 lit. b DSGVO).
+
+5. Einwilligung für Cookies
+Beim Besuch unserer Website können Sie der Verwendung von Cookies zustimmen. Durch die Nutzung unserer Website erklären Sie sich mit der Verwendung von Cookies gemäß unserer Cookie-Richtlinie einverstanden.
+
+Zur Verwaltung der eingesetzten Cookies und ähnlichen Technologien (Tracking-Pixel, Web- Beacons etc.) und diesbezüglicher Einwilligungen setzen wir das Consent Tool „Real Cookie Banner“ ein. Details zur Funktionsweise von „Real Cookie Banner“ findest du unter https://devowl.io/de/rcb/datenverarbeitung/.
+
+Rechtsgrundlagen für die Verarbeitung von personenbezogenen Daten in diesem Zusammenhang sind Art. 6 Abs. 1 lit. c DSGVO und Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse ist die Verwaltung der eingesetzten Cookies und ähnlichen Technologien und der diesbezüglichen Einwilligungen.
+
+Die Bereitstellung der personenbezogenen Daten ist weder vertraglich vorgeschrieben noch für den Abschluss eines Vertrages notwendig. Sie sind nicht verpflichtet die personenbezogenen Daten bereitzustellen. Wenn Sie Ihre personenbezogenen Daten nicht bereitstellen, können wir Ihre Einwilligungen nicht verwalten.
+
+6. Cookies
+Unsere Website verwendet so genannte Cookies. Dabei handelt es sich um kleine Textdateien, die mit Hilfe des Browsers auf Ihrem Endgerät abgelegt werden. Sie richten keinen Schaden an.
+
+Wir nutzen Cookies dazu, unser Angebot nutzerfreundlich zu gestalten. Einige Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese löschen. Sie ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen.
+
+Wenn Sie dies nicht wünschen, so können Sie Ihren Browser so einrichten, dass er Sie über das Setzen von Cookies informiert und Sie dies nur im Einzelfall erlauben.
+
+Bei der Deaktivierung von Cookies kann die Funktionalität unserer Website eingeschränkt sein.
+
+7. Web-Analyse
+Unsere Website verwendet Funktionen des Webanalysedienstes Matomo, betrieben von uns selbst auf einem Server in Deutschland. Matomo verwendet Cookies, die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die dadurch erzeugten Informationen über Ihre Nutzung dieser Website werden auf unseren Server in Deutschland übertragen und dort gespeichert.
+
+Sie können dies verhindern, indem Sie Ihren Browser so einrichten, dass keine Cookies gespeichert werden.
+
+Ihre IP-Adresse wird erfasst, aber umgehend durch Löschung der letzten 8 Bit pseudonymisiert. Dadurch ist nur mehr eine grobe Lokalisierung möglich.
+
+Die Datenverarbeitung erfolgt auf Basis der gesetzlichen Bestimmungen des § 96 Abs 3 TKG sowie des Art 6 Abs 1 lit a (Einwilligung) und/oder lit f (berechtigtes Interesse) der DSGVO. Unser Anliegen im Sinne der DSGVO (berechtigtes Interesse) ist die Verbesserung unseres Angebotes und unseres Webauftritts. Da uns die Privatsphäre unserer Nutzer wichtig ist, werden die Nutzerdaten nach technischer Möglichkeit pseudonymisiert.
+
+Die Nutzerdaten werden für die Dauer von 2 Jahren aufbewahrt.
+
+8. Newsletter
+Sie haben die Möglichkeit, über unsere Website unseren Newsletter zu abonnieren. Hierfür benötigen wir Ihre E-Mail-Adresse und ihre Erklärung, dass Sie mit dem Bezug des Newsletters einverstanden sind.
+
+Sobald Sie sich für den Newsletter angemeldet haben, senden wir Ihnen ein Bestätigungs-E- Mail mit einem Link zur Bestätigung der Anmeldung.
+
+Das Abo des Newsletters können Sie jederzeit stornieren. Senden Sie Ihre Stornierung bitte an folgende E-Mail-Adresse: newsletter@imanocs.at. Wir löschen anschließend umgehend Ihre Daten im Zusammenhang mit dem Newsletter-Versand.
+
+9. CAPTCHA
+Zum Schutz unserer Formulare verwenden wir den Dienst Cloudflare Turnstile als CAPTCHA. Cloudflare kann personenbezogene Daten außerhalb der EU verarbeiten. Weitere Informationen finden Sie in der Datenschutzerklärung von Cloudflare: https://www.cloudflare.com/privacypolicy/
+
+10. Medien
+Wenn Sie als registrierter Benutzer Fotos auf unserer Website hochladen, empfehlen wir Ihnen, Fotos ohne EXIF-GPS-Standortdaten hochzuladen, da Besucher Standortinformationen aus Fotos extrahieren könnten.
+
+11. Eingebettete Inhalte von anderen Websites
+Beiträge auf dieser Website können eingebettete Inhalte (z. B. Videos, Bilder, Beiträge usw.) enthalten. Eingebettete Inhalte von anderen Websites verhalten sich so, als ob der Besucher die andere Website direkt besucht hätte.
+
+12. Datenweitergabe
+Wir geben Ihre Daten grundsätzlich nicht an Dritte weiter, es sei denn, dies ist zur Erfüllung des Vertrags oder zur Beantwortung Ihrer Anfrage erforderlich. Wir beschränken die Datenweitergabe auf das notwendige Maß.
+
+Diese Websites können Informationen über Sie sammeln, Cookies verwenden, zusätzliche Tracking-Dienste von Dritten einbetten und Ihre Interaktion mit diesem eingebetteten Inhalt aufzeichnen, einschließlich Ihrer Interaktion mit dem eingebetteten Inhalt, wenn Sie auf unserer Website angemeldet sind.
+
+13. Datenübertragung außerhalb der EU
+Da einige unserer Dienstleister ihren Sitz außerhalb der EU haben, kann es zu einer Übertragung Ihrer Daten außerhalb der EU kommen. Wir stellen sicher, dass diese Übertragungen in Übereinstimmung mit den Datenschutzgesetzen erfolgen und angemessene Sicherheitsmaßnahmen getroffen werden.
+
+14. Speicherdauer
+Kommentare und die damit verbundenen Metadaten werden zeitlich unbegrenzt gespeichert, um Folgekommentare automatisch erkennen und freigeben zu können. Für registrierte Benutzer speichern wir die in ihren Benutzerprofilen angegebenen persönlichen Informationen. Benutzer können ihre persönlichen Informationen jederzeit einsehen, ändern oder löschen.
+
+15. SSL-Verschlüsselung
+Um die Sicherheit Ihrer Daten bei der Übertragung zu gewährleisten, verwenden wir SSL- Verschlüsselung auf unserer Website.
+
+16. Automatisierte Spam-Erkennung
+Besucher-Kommentare können automatisiert auf Spam hin überprüft werden.
+
+17. Ihre Rechte
+Als Nutzer unserer Website haben Sie das Recht auf Auskunft über die von uns verarbeiteten personenbezogenen Daten, das Recht auf Berichtigung, Löschung oder Einschränkung der Verarbeitung Ihrer Daten und das Recht auf Datenübertragbarkeit. Sie können diese Rechte ausüben oder Fragen zur Datenverarbeitung an uns richten.
+
+18. Beschwerderecht bei der Aufsichtsbehörde
+Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich bei der Aufsichtsbehörde beschweren. In Österreich ist dies die Datenschutzbehörde.
+
+19. Beantwortung von Anfragen zum Datenschutz
+Wir ersuchen Sie, Ihre Anfrage schriftlich oder per E-Mail mit einer beigelegten Ausweiskopie an folgende Adresse zu senden:
+2rc imanocs Consulting GmbH
+Tokiostraße 5/R1
+1220 Wien, Österreich
+E-Mail: datenschutz@imanocs.at
+
+Wir werden Ihre Anfrage dann entsprechend der gesetzlichen Vorschriften bearbeiten.
+
+20. Aktualisierungen der Datenschutzerklärung
+Diese Datenschutzerklärung wird regelmäßig überprüft und aktualisiert, um sicherzustellen, dass sie den aktuellen rechtlichen Anforderungen entspricht. Wir behalten uns das Recht vor, diese Datenschutzerklärung jederzeit zu ändern, um sie an neue gesetzliche Anforderungen oder Änderungen unserer Dienstleistungen anzupassen. Die aktuelle Version finden Sie stets auf unserer Website https://www.imanocs.at/datenschutz.
+
+
+Letzte Aktualisierung: 10. Oktober 2024
