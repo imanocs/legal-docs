@@ -1,4 +1,4 @@
-# imanocs GmbH
+# 2rc imanocs Consulting GmbH
 
 Dieses Repository enthält die Versionierung der rechtlichen Dokumente unserer Firma.
 
